@@ -4,7 +4,7 @@
 
 - Upstream: https://github.com/Wei-Shaw/sub2api
 - Upstream branch: `main`
-- Last synchronized commit: `570106ac17cecfbca95a460bd5047d43e8c0aafc`
+- Last synchronized commit: `270eac6973049fe1b50eb75560a74a029e82884c`
 - Baseline version: `0.2.3`
 - Integration branch: `fbspecial`
 
